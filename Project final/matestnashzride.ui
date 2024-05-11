@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Matestnashzride</class>
+ <widget class="QDialog" name="Matestnashzride">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>632</width>
+    <height>442</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>10</y>
+     <width>131</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Skoda Octavia</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_4">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>190</y>
+     <width>131</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Opel Astra</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>130</y>
+     <width>131</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>KIA Cerato</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_7">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>370</y>
+     <width>131</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Fiat Punto</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_6">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>310</y>
+     <width>131</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Toyota Corolla</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>70</y>
+     <width>131</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Peugeot 2008</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_5">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>250</y>
+     <width>131</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Honda Civic</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>80</y>
+     <width>371</width>
+     <height>171</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_8">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>290</y>
+     <width>191</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Proceed to Payment</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_9">
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>390</y>
+     <width>112</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Confirm</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

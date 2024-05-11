@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MatestnashBusride</class>
+ <widget class="QDialog" name="MatestnashBusride">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>627</width>
+    <height>461</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QPushButton" name="pushButton_AUCtH">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>130</y>
+     <width>201</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>AUC to Heliopolis</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_HtAUC">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>170</y>
+     <width>201</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Heliopolis to AUC</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_StR">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>390</y>
+     <width>201</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Shorouk to Rehab</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_ZtAUC">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>60</y>
+     <width>201</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>AUC to Zamalek</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_P90tH">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>280</y>
+     <width>201</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Point90 to Heliopolis</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_RtS">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>350</y>
+     <width>201</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Rehab to Shorouk</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_AUCtZ">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>20</y>
+     <width>201</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Zamalek to AUC</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>20</y>
+     <width>361</width>
+     <height>171</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_PTP">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>240</y>
+     <width>181</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Proceed to Payment</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_HtP0">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>240</y>
+     <width>201</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Heliopolis to Point90</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>360</y>
+     <width>112</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Confirm</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
